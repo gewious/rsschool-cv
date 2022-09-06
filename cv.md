@@ -15,3 +15,16 @@ I am a 5th year university student with a degree in Public Administration, but I
 * JavaScript Basics
 * Git, GitHub
 
+---
+## Code Example:
+**function** sumStr(a,b) {
+ return String(Number(a)+Number(b))
+}
+
+---
+## Education
+* Udemy HTML/CSS course
+* JavaScript (in process…)
+---
+## English:
+A2
