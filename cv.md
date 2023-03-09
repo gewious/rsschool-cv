@@ -26,3 +26,11 @@ Hello, I'm Yana!
       })  
       return newStr.join(" ")  
       }}
+      
+---
+## Education
+* Udemy HTML/CSS course
+* RS school JS / FRONT-END course
+---
+## English:
+B1
