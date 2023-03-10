@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 16;
+    font-family: 'Nunito';
+    font-weight: 300;
+    background-color: rgba(40, 132, 181, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    position: relative;
+    width: 100%;
+    background: #fff;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+}
+
+.right_slide {
+    position: relative;
+    background: #fff;
+    padding: 40px;
+    padding-left: 70px;
+    max-width: 600px;
+}
+
+.left_slide {
+    position: relative;
+    background: #393b3a;
+    padding: 40px;
+    color: #fff;
+}
+
+.img img {
+    position: relative;
+    max-width: 280px;
+}
+
+.contact_title {
+    margin-top: 30px;
+}
+
+.contact_info_list {
+    padding-left: 0;
+}
+
+.ed_title {
+    margin-top: -25px;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #fff;
+}
+
+.name {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.developer_title, 
+.age_location {
+    font-size: 20px;
+}
+
+.developer_title {
+    margin-bottom: 5px;
+}
+
+.age_location {
+    margin-bottom: 10px;
+}
+
+.web {
+    font-weight: 300;
+    font-size: 23px;
+}
+
+.text {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.info {
+    position: relative;
+    list-style-type: none;
+    margin-top: 25px;
+    display: flex;
+}
+
+.info .text {
+    position: absolute;
+    left: 35px;
+    top: 3px;
+}
+
+.icons {
+    position: relative;
+}
+
+ul {
+    padding-left: 10px;
+}
+
+.education {
+    margin-top: 70px;
+}
+
+.ed li {
+   margin-top: 15px;
+   font-size: 18px;
+}
+
+.about_me_text {
+    margin-top: 20px;
+    font-weight: 300;
+    line-height: 35px;
+}
+
+.quality {
+    color: black;
+    margin-top: 10px;
+    font-weight: 300;
+}
+
+.language {
+    color: white;
+    margin-top: 15px;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.title_code {
+    margin-top: 35px;
+}
+
+.skills_inf {
+    margin-top: 40px;
+}
+
+.technology {
+    margin-top: 12px;
+}
+
+.work_example {
+    color: black;
+    font-size: 18px;
+    font-weight: 300;
+    text-decoration: none;
+    line-height: 27px;
+}
+
+.work_example:hover {
+    color: purple;
+    font-size: 20px;
+    transition: 0.5s;
+}
+
+.work_example_block {
+    margin-bottom: 15px;
+}
+
+li {
+    font-size: 18px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.code_example {
+    margin-top: 20px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.title_inf {
+    margin-top: 30px;
+}
+
